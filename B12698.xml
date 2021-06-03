@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas the Kings most excellent Maiestie, vpon information giuen to his highnesse of the infection of the plague growen and dispersed in his cities of London and Westminster, ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12698</idno><idno type="EEBO-CITATION">99892753</idno>
+  <idno type="VID">187125</idno>
+  <idno type="EEBO-PROQUEST">2240929200</idno>
+  
+            <idno type="STC">STC 8335</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[29]</idno>
+            <idno type="PROQUEST">ocm99892753</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892753e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187125)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas the Kings most excellent Maiestie, vpon information giuen to his highnesse of the infection of the plague growen and dispersed in his cities of London and Westminster, ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>anno 1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Winchester the eighteenth day of October 1603, in the first yeere of our reigne of England, France, and Ireland, and the seuen and thirtieth of Scotland.</note>
+                  <note>Adjourning the rest of Michaelmas term to Winchester and restricting access there; money due to the King to go to Richmond. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Plague --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187125:1"/>
+            <head>❧ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Kings most Excellent Maiestie, vpon information giuen to his</hi> Highnesse of the Infection of the Plague growen and dispersed in his Cities of <hi>London</hi> and <hi>Westminster,</hi> did by his Proclamation dated at his Mannor of <hi>Woodstock</hi> the sixteenth day of September last past, for the considerations therein expressed, cause the Terme of <hi>S. Michael</hi> to be adiourned vnto the fourth Returne thereof, commonly called <hi>Mense Michaelis,</hi> Hoping by that time, through the goodnesse of Almightie God, and such Orders as by his Maiesties especiall Commandement were appointed to be kept &amp; obserued, and by the coldnes of the aire, the said In<g ref="char:EOLhyphen"/>fection of the Plague might haue bene so much diminished, as that the residue of the Terme might, without danger to his louing Subiects, which his Maiesty greatly desireth, haue bene continued at <hi>Westminster:</hi> Forasmuch as his Maiesty hath since receiued knowledge, by Certificats sent from <hi>London</hi> and <hi>Westminster,</hi> that the Plague still continueth, And therefore doubteth that if the said Terme should be kept at <hi>Westminster</hi> from the said <hi>Mense Michaelis,</hi> it could not be but dangerous to such his louing Subiects, who for Sutes and other causes should make their necessary repaire thither; Therefore vpon the considerations aforesaid, his Maiestie hath by aduise of his Highnesse Councell, thought it very expedient, that the Terme should be adiourned from the said Returne commonly called <hi>Mense Michaelis,</hi> vntill the Returne commonly called <hi>Crastino Sancti Martini</hi> next ensuing, and thereby the rest of the vsuall Terme to be continued and kept, for which purpose especiall choise is made of his Maiesties City of <hi>Winchester</hi> in his Countie of <hi>Southampton,</hi> and at which place his Maie<g ref="char:EOLhyphen"/>sties pleasure is, that now the residue of the Terme shall be kept: Doeth therefore declare, and hereby signifie his will and pleasure, That Writs of Adiournement shalbe directed to the Iustices of either Bench, and to the Iudges of all other his Maiesties Courts to whom like Writs haue bene vsually directed, Giuing them authoritie to adiourne the residue of the said Terme from <hi>Westminster</hi> aforesaid, vnto the said City of <hi>Winchester,</hi> there to begin in the saide <hi>Crastino Martini</hi> next en<g ref="char:EOLhyphen"/>suing, and so to continue.</p>
+            <p>And his Maiesties pleasure is, That two of his Iustices, that is to say, of either Bench one, shall on the first day of the saide Returne, called <hi>Mense Michaelis,</hi> according to the ancient Order of the Lawes, keepe the Essoynes of the sayde <hi>Mense Michaelis,</hi> and in the first day thereof commonly called the day of Essoynes, the same Adiournement shall bee made from the saide <hi>Mense Michaelis,</hi> vntill <hi>Crastino Martini</hi> as aforesaide. And further his Maiesties pleasure is, That all matters, causes and suits betweene partie and partie, in his Highnesse Courts of Chancery, Starrechamber, Exchequer, Courts of Wards and Liueries, Dutchie of Lancaster, and Court of Requests, shall haue continuance, and the parties shall haue day from the said <hi>Mense Michaelis</hi> vntill the said <hi>Crastino Martini,</hi> at the said Citie of <hi>Winchester.</hi> Wil<g ref="char:EOLhyphen"/>ling them and euery of them to whom it doth appertaine, to obserue and keepe their apparances and assemblies in all and euery his Highnesse said Courts at the said Citie of <hi>Winchester</hi> in the said <hi>Crastino Martini,</hi> in like maner, forme, and condi<g ref="char:EOLhyphen"/>tion, as they would, should, or ought to haue done, if the said Terme and Courts had bene holden and kept at <hi>Westminster,</hi> as they and euery of them will answere at their perils, Any thing in his Maiesties said former Proclamation to the con<g ref="char:EOLhyphen"/>trarie notwithstanding. And yet neuerthelesse his Maiesties pleasure and commandement is, for the greater safety of his louing Subiects (which of any thing in this world he chiefly desireth) in this infectious time, That no Issue triable by twelue or more Iurors this next Terme, shall receiue triall in any of his Maiesties Courts of Kings Bench, Common Pleas, or Exchequer, And that neither any Iurors summoned, or to be summoned to appeare at any Returne or day of this next Terme, shall appeare for triall of any such Issue, vnlesse it be for high Treason, or any matters or causes Criminall, Nor any witnesse either serued, or to be serued with Processe or otherwise, shal appeare, or giue in euidence for triall of any such Issue, (Treasons, and matters or causes Criminall excepted) but that both Iurors and Witnesses may safely, accor<g ref="char:EOLhyphen"/>ding to his Maiesties gracious meaning herein expressed, reside and employ them in or about their own affaires, without any forfeiture, penalty, or losse whatsoeuer in that behalfe.</p>
+            <p>And whereas by the sayd former Proclamation his Maiesties pleasure and commandement was, That notwithstan<g ref="char:EOLhyphen"/>ding the sayd former Adiournement, All Collectors, Receiuers, Sheriffes, and other Accomptants, and all other persons that should or ought to accompt, or pay any Summe or Summes of money in any of his Maiesties Courts of Exchequer, Courts of Wards and Liueries, and of his Dutchie of Lancaster, or in any of them, or to enter into any Accompt in any of the same Courts, should repayre vnto his Maiesties House of <hi>Richmond,</hi> where his Highnesse had appointed such Officers and Ministers, as for that purpose his Maiestie had thought expedient, &amp; there to pay and doe in euery behalfe, as though no such Proclamation of Adiournement had bene had or made: And his Highnesse further pleasure and commandement was, That all Sheriffes should returne their Writs and Processe against all such Accomptants and Debters at the dayes therein appointed: And if any person or persons, who ought to accompt or pay any Summe or Summes of money to his Maiestie in any of the Courts and places aforesaid, should make default therein, That then his Highnesse Writs and
+<pb facs="tcp:187125:2"/>Processes should be awarded and sent foorth against euery such person and persons, and the same to bee duely and orderly serued and returned by the Sheriffes and Officers thereunto appointed, in such like maner and fourme as the same should haue beene, if the said former Proclamation had not bene made: And if any Sheriffe or other Officer should make default, or be negligent in seruing, executing, or returning of any the Writs and Processe aforesaid, That then euery such Sheriffe and other Officer shall incurre such paines and penalties, as by the said Courts or any of them should be taxed and assessed: Now his Maiesties pleasure and commandement is, That all the sayd Collectors, Receiuers, Sheriffes, &amp; other Accomp<g ref="char:EOLhyphen"/>tants, and all other persons that shal or ought to accompt or pay any summe or summes of money, in any of his Maiesties sayd Courts of Exchequer, Courts of Wards and Liueries, and of his Dutchie of Lancaster, or in any of them, or to enter into any Accompt in any of the sayd Courts, shall from henceforth vntill the end of the next Terme, repaire vnto his Ma<g ref="char:EOLhyphen"/>iesties sayd House of <hi>Richmond,</hi> where his Highnesse hath appointed such Officers and Ministers as for that purpose hath beene thought expedient, and there all and euery thing and things to be performed, done, obserued, and proceeded with in such manner and fourme, as by the sayd former Proclamation herein before recited, is prescribed and commanded.</p>
+            <p>And further, his Maiestie considering that if there should happen to be any accesse and apparance of his louing Subiects at the said City of <hi>Winchester</hi> during the residue of the Terme, of such as haue had the Plague in their houses, or haue bene themselues infected therewith, There might ensue great perill and damage to those that haue as yet bene cleare thereof, and so further inconuenience might growe thereby to the rest of the Realme: His Highnesse therefore, for the auoyding thereof, doeth straightly charge and commaund, That no such person or persons who haue bene so infected, or haue had the Plague in their houses at any time since the Twentieth day of Iuly last, of what estate or degree soeuer he or they bee, shall repayre to the said City of <hi>Winchester</hi> during the residue of the said Terme, except he or they shalbe commanded by spe<g ref="char:EOLhyphen"/>ciall Proces, or otherwise haue speciall commandement for his or their personall appearance. And yet neuerthelesse, eue<g ref="char:EOLhyphen"/>ry such person or persons so infected before his or their repayre to the said Citie of <hi>Winchester,</hi> shall before he or they enter in<g ref="char:EOLhyphen"/>to any house within the sayd Citie or Suburbes thereof, openly notifie and declare by some message his or their estate tou<g ref="char:EOLhyphen"/>ching his or their infection, with the cause for the which he or they shalbe called by Proces or other commandement, to such person or persons as shalbe appoynted by the Lord Chancellor of England, to haue the charge of the Gates and entries in<g ref="char:EOLhyphen"/>to the said Citie; So as if the said partie shalbe ordered to come into the Citie, or into any Court within the sayd Citie, the same shall after during the time of his or their abode there, beare or holde vp in his or their hand vpright to be seene one red Rod of the length of one Yard or more, vpon paine of his Maiesties displeasure, and Imprisonment of their bodies during his Highnesse pleasure.</p>
+            <p>And further his Maiestie straightly chargeth and commandeth all Iustices of Peace of the sayd Countie of Southamp<g ref="char:EOLhyphen"/>ton, dwelling within Twelue myles of the sayd Citie, and all Bayliffes, Constables, and head Officers of any Boroughes, Townes, Villages or Hamlets within Eight myles of the said Citie, That they and euery of them shall from and after the day of the proclaiming of this Proclamation within the sayd Countie, doe their best indeuours to make, set forth, obserue, and cause to be obserued such good Orders, as by the goodnesse of God may tend most to the preseruation of all places with<g ref="char:EOLhyphen"/>in the same Circuit of Eight myles from infection of the Plague: And for that purpose to assemble themselues together weekely at some conuenient place in the sayd Countie from the time of the publishing of this Proclamation, vntill the end of the residue of the sayd Terme, aswell for the deuising, as for the execution of such good Orders. And that the said Iusti<g ref="char:EOLhyphen"/>ces of Peace shall in the first day of the sitting in the residue of the Terme, signifie and declare vnto the Lord Chancellor of England, all that they and the said Constables and other the saide Officers shall then haue done in and about the premisses, and shall also from time to time follow such directions as they shall receiue from the said Lord Chancellour and other of his Maiesties Councell at the said Citie, tending to the preseruation of the places within the circuit aboue specified from the said infection of the Plague, Not doubting but that aswell the said Iustices, as other the inferiour Officers will care<g ref="char:EOLhyphen"/>fully discharge their duetie in that behalfe, as they tender the continuance of his Maiesties fauour, and wil answere for the contrary at their perils.</p>
+            <closer>
+               <dateline>Giuen at his Maiesties Citie of <hi>Winchester</hi>
+                  <date>the eighteenth day of October 1603, in the first yeere of his Reigne of England, France and Ireland, and of Scotland the seuen and thirtieth.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. Anno. 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
